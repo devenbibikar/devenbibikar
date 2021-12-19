@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devenbibikar
-- 👀 I’m interested in ... machine learning via python and UI in Java
-- 🌱 I’m currently learning ... HTML/CSS, Java UI, Py
-- 💞️ I’m looking to collaborate on ... any Java or Python project
+- 👀 I’m interested in ... machine learning via python and cybersecurity
+- 🌱 I’m currently learning ... HTML/CSS, Java UI, C/C++
+- 💞️ I’m looking to collaborate on ... Java or Python Games
 - 📫 How to reach me ... devenbibikar@gmail.com
 
 <!---
